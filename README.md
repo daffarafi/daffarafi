@@ -1,11 +1,12 @@
 <h1 align="center">Yo! 👋, I'm Daffa Rafi!</h1>
 <h3 align="center">Full-stack Web Developer from Indonesia!</h3>
 
-<img align="right" alt="sleeping cats" width="400" src="https://media.tenor.com/_fozwLmhtocAAAAM/peachcat-chilling.gif">
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=daffarafi&label=Profile%20views&color=0e75b6&style=flat" alt="daffarafi" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=daffarafi" alt="daffarafi" /></a> </p>
+<img align="right" alt="sleeping cats" width="400" src="https://media.tenor.com/_fozwLmhtocAAAAM/peachcat-chilling.gif">
+
+
 
 <p align="left"> <a href="https://twitter.com/daffatgi" target="blank"><img src="https://img.shields.io/twitter/follow/daffatgi?logo=twitter&style=for-the-badge" alt="daffatgi" /></a> </p>
 
