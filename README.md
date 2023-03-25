@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://daffarafi.netlify.app/](https://daffarafi.netlify.app/)
 
-- 💬 Ask me about **Javascript, React, Next, etc!**
+- 💬 Ask me about **HTML, CSS, Javascript, React, Next, etc!**
 
 - 📫 How to reach me **daffarafip24@gmail.com**
 
