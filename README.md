@@ -1,3 +1,5 @@
+<img src="https://i.ibb.co/7t9rkCd/banner.png" width="1200" alt="banner">
+
 <h1 align="center">Yo! 👋, I'm Daffa Rafi!</h1>
 <h3 align="center">Full-stack Web Developer from Indonesia!</h3>
 
