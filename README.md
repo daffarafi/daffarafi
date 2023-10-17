@@ -14,7 +14,7 @@
 
 - 🔭 I’m currently working on [Open Karya](https://openkarya.netlify.app/)
 
-- 👨‍💻 All of my projects are available at [https://daffarafi.vercel.app/](https://daffarafi.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://daffarafi.com/](https://daffarafi.com/)
 
 - 💬 Ask me about **HTML, CSS, Javascript, React, Next, etc!**
 
