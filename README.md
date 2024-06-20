@@ -12,7 +12,7 @@
 
 <p align="left"> <a href="https://twitter.com/daffatgi" target="blank"><img src="https://img.shields.io/twitter/follow/daffatgi?logo=twitter&style=for-the-badge" alt="daffatgi" /></a> </p>
 
-- 🔭 I’m currently working on [Open Karya](https://openkarya.netlify.app/)
+- 🔭 I’m currently working on [Maia Digital Network](https://maiadigital.id/)
 
 - 👨‍💻 All of my projects are available at [https://daffarafi.com/](https://daffarafi.com/)
 
